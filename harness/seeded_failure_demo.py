@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """Seeded-failure demonstration harness (residual-case-studies CS-0001).
 
