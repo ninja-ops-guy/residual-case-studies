@@ -1,2 +1,3 @@
 # residual-case-studies
-Public corpus of failures missed by behavioral evals and caught by RESIDUAL-style run-state verification.
+
+A public, citable corpus of failures that behavioral evaluations missed and RESIDUAL-style run-state verification caught. See TEMPLATE.md, SUBMISSIONS.md, IDENTIFIERS.md. Full index lands via the first case-studies PR.
